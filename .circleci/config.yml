@@ -1,4 +1,4 @@
-# Use the latest 2.1 version of C
+# Use the latest 2.1 version of 
 # See: https://circleci.com/dcs/c
 version: 2.1
 
